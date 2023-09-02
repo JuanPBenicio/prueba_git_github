@@ -1,0 +1,14 @@
+prueba_git_github
+
+git remote add origin =>(comando de comunicarme con el repositorio repoto)
+
+git status =>(comando para ver el estado)
+
+git add nombreArchivo => (comando para subir un archivo a git)
+
+
+git commit - m =>(comando para dejar un mensaje cuando subo un archivo)
+
+git push -u origin master o la rama correspontiente=>(comando que sube mis archivos al repositorio remoto)
+
+
